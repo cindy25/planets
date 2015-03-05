@@ -1,2 +1,4 @@
 type anything to practice git
 add text to modify it and save~~~
+just a test on git add
+now, lets see what git diff sees
